@@ -30,6 +30,15 @@ cargados:
 * Uruguay
 * Chile
 
+## Mock ups
+
+Login
+![image](https://github.com/fpiemontesi/utn-prog3-exam1-practice/assets/32469880/bfc0955e-4d70-42e3-ae08-27ed86e5aa29)
+
+Alta Piloto
+![image](https://github.com/fpiemontesi/utn-prog3-exam1-practice/assets/32469880/837ee5a4-d958-4e3e-9344-2c10b088cffc)
+
+
 ## Consideraciones:
 * TODAS LAS PÁGINAS DEBERÁN ESTAR DESARROLLADAS USANDO EL
 FRAMEWORK DE BOOTSTRAP, UTILIZANDO LAS CLASES, Y LOS ESTILOS
