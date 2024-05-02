@@ -18,7 +18,7 @@ Campos:
 * Nombre (requerido, no mayor a 30)
 * Apellido (requerido, no mayor a 20)
 * Cantidad de hs de vuelo (requerido, no menor a 50)
-* Sexo (requerido)
+* Tipo vuelo (requerido)
 * Nacionalidad (requerido)
 
 ### Aclaraciones:
@@ -33,10 +33,10 @@ cargados:
 ## Mock ups
 
 ### Login
-![image](https://github.com/fpiemontesi/utn-prog3-exam1-practice/assets/32469880/bfc0955e-4d70-42e3-ae08-27ed86e5aa29)
+![image](https://github.com/fpiemontesi/utn-prog3-exam1-practice/assets/32469880/6778ba8d-4fe9-4fb7-807c-673c2f2564da)
 
 ### Alta Piloto
-![image](https://github.com/fpiemontesi/utn-prog3-exam1-practice/assets/32469880/837ee5a4-d958-4e3e-9344-2c10b088cffc)
+![image](https://github.com/fpiemontesi/utn-prog3-exam1-practice/assets/32469880/34ab47bd-4c33-4777-90ea-882580f7840d)
 
 
 ## Consideraciones:
