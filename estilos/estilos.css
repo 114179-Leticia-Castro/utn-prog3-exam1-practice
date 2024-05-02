@@ -1,0 +1,120 @@
+body {
+    margin: 0;
+    
+}
+
+
+.container {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+.form {
+    background-color: white;
+    padding: 80px;
+    width: 400px;
+    height: 75vh;
+    border-radius: 8px;
+    display: block;
+    border: 1px solid;
+
+    
+}
+.form label {
+    font-weight: bold;
+    text-align: center;
+    
+}
+.form input[type=text] {
+    display:block;
+    margin-top: 10px;
+    margin-bottom: 16px;
+    padding: 10px 16px;
+    height: 30px;
+    width: 250px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    border-color: black;
+}
+.form input[type=text]:focus {
+    outline: none;
+    border-color: black;
+}
+
+.form button {
+    padding: 4px 16px;
+    margin: 16px 0;
+    width: 250px;
+    height: 30px;
+    border: 1px solid var(--light-blue);
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.form button.primary {
+    background-color: var(--light-blue);
+    color: #fff;
+}
+
+.container1{
+    display: block;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.form1{
+    background-color: white;
+    padding: 100px;
+    width: 700px;
+    height: 120vh;
+    border-radius: 8px;
+    
+    display: block;
+    border: 1px solid;
+    
+}
+
+.form1 label {
+    font-weight: bold;
+    text-align: center;
+    
+}
+.form1 input[type=text] {
+    display:block;
+    margin-top: 10px;
+    margin-bottom: 16px;
+    padding: 10px 16px;
+    height: 30px;
+    width: 250px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    border-color: black;
+}
+
+.form1 input[type=text]:focus {
+    outline: none;
+    border-color: black;
+}
+.form1 button {
+    padding: 4px 16px;
+    margin: 16px 0;
+    width: 520px;
+    height: 30px;
+    border: 1px solid var(--light-blue);
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.form-select{
+    width: 520px;
+}
+
+
+
+
+
+
+
